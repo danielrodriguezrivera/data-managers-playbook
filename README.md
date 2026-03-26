@@ -6,8 +6,8 @@ Moving from Junior to Senior (and eventually to Management) requires a shift in 
 
 ## 🚀 The 4-Part Series
 
-* ✅ **[Part 1: Reliability - Pipeline Idempotency & Auditing](./part_1_idempotency/)** (Available Now)
-* ⏳ **Part 2: Quality - Enforcing Data Contracts** *(Coming Soon)*
+* ✅ **Part 1: Reliability - Pipeline Idempotency & Auditing(./part_1_idempotency/)** (Available Now)
+* ⏳ **Part 2: Quality - Enforcing Data Contracts(./part_2_data_contracts/)** (Available Now)
 * ⏳ **Part 3: Cost - The Cloud Warehouse Cost-Killer** *(Coming Soon)*
 * ⏳ **Part 4: Scale - Streaming & CDC Architecture** *(Coming Soon)*
 
